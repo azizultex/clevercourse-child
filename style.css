@@ -11,3 +11,17 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Tags: white, light, yellow, two-columns, fluid-layout, custom-background, custom-colors, featured-images, theme-options
 Text Domain: gdlr_translate
 */
+
+.gdlr-navigation-wrapper .gdlr-main-menu > li > a {
+	    padding: 0px 10px 42px 0px !important;
+}
+
+.gdlr-navigation-wrapper .gdlr-main-menu > li > a:before {
+	margin-right: 10px !important;
+}
+.gdlr-logo {
+    margin-bottom: 15px !important;
+}
+.gdlr-logo {
+    margin-top: 25px !important;
+}
