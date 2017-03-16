@@ -23,5 +23,8 @@ Text Domain: gdlr_translate
     margin-bottom: 15px !important;
 }
 .gdlr-logo {
-    margin-top: 25px !important;
+    margin-top: 15px !important;
+}
+.gdlr-navigation-wrapper {
+    margin-top: 48px;
 }
